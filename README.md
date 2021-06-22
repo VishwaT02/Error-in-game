@@ -1,1 +1,2 @@
-# Error-in-game
+# synchronousBallMovement
+Ball moving synchronously
